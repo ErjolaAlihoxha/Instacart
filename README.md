@@ -21,3 +21,9 @@ profiles?
 2. Orders
 3. Products
 4. Departments
+
+### Folders
+#### 1. Project Managment: Project Brief
+2. Scripts: Jupyter codes for the analysing
+3. Analysis: Visualisations which answer the key questions
+4. Sent to Client: Excel Final Report
