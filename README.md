@@ -1,5 +1,5 @@
-# Instacart Basket Analysis ![image](https://github.com/user-attachments/assets/39144450-d32b-4f6c-8cca-938e946da833)
-
+![image](https://github.com/user-attachments/assets/39144450-d32b-4f6c-8cca-938e946da833)
+# Instacart Basket Analysis 
 ### Project Summury
 ##### This project conteins the analyzing of an online grocery store that operates through an app, Instacart. It uncovers sales patterns and derive insights to inform for a better marketing strategy.
 
