@@ -1,9 +1,10 @@
-# Instacart Basket Analysis
+# Instacart Basket Analysis ![image](https://github.com/user-attachments/assets/39144450-d32b-4f6c-8cca-938e946da833)
+
 ### Project Summury
 ##### This project conteins the analyzing of an online grocery store that operates through an app, Instacart. It uncovers sales patterns and derive insights to inform for a better marketing strategy.
 
 ### Key Questions
-##### 1. When are the busiest days of the week and hours of the day?
+1. When are the busiest days of the week and hours of the day?
 2. Is there a particular time of the day when people spend most of the money?
 3. Are there certain types of products that are more popular than others?
 4. What is the distribution among users in regards to their brand loyalty?
@@ -23,7 +24,7 @@ profiles?
 4. Departments
 
 ### Folders
-#### 1. Project Managment: Project Brief
+1. Project Managment: Project Brief
 2. Scripts: Jupyter codes for the analysing
 3. Analysis: Visualisations which answer the key questions
 4. Sent to Client: Excel Final Report
